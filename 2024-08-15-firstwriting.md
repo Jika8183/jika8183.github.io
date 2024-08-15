@@ -1,6 +1,6 @@
 ---
-layout:single
-title:"테스트"
+layout : single
+title : "테스트"
 ---
 # 1장 C++ 첫걸음
 
